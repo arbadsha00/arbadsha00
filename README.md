@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **React and DSA**
 
 - 📫 How to reach me **arbadsha00@gmail.com**
-
+- 📞 WhatsApp **+8801402195989**
 - ⚡ Fun fact **I am an Artist**
 ###
 
@@ -21,7 +21,6 @@
   <a href="https://linkedin.com/in/arbadsha00" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
    <a href="https://www.facebook.com/arbadsha00" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
    <a href="https://codeforces.com/profile/AbdurRahimBadsha" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="52" height="40" alt="codeforce"  /></a>
-   <a href="https://www.instagram.com/arbadsha00" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
    <a href="https://www.behance.net/arbadsha00" target="blank">   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  /></a>
    <a href="https://dribbble.com/arbadsha00" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  /></a>
 </div>
@@ -70,3 +69,15 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arbadsha00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arbadsha00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=false&order=2" height="150" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=arbadsha00&theme=light&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/arbadsha00/arbadsha00/output/snake.svg" alt="Snake animation" />
+
+###
