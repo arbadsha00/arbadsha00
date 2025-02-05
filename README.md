@@ -1,10 +1,30 @@
-<div align="center"> <img src="https://github.com/arbadsha00/arbadsha00/blob/main/github-01-01.png"> </div>
-<h2 align="center">👋Hi, I'm MD. ABDUR RAHIM BADSHA</h2>
-<h2 align="center">Brand Identity Designer | MERN Stack Developer</h2>
+<div align="center"> <img src="https://github.com/arbadsha00/arbadsha00/blob/main/githubBanner-01.png"> </div>
+<h1 align="center">👋Hi, I'm MD. ABDUR RAHIM BADSHA</h1>
+<h3 align="center">Brand Identity Designer | Frontend Developer</h3>
+
+###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arbadsha00&label=Profile%20views&color=F422DA&style=flat" alt="arbadsha00" /> </p>
+
+**Welcome to my GitHub! I'm passionate about crafting unique brand identities and developing scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I blend design creativity with technical expertise to build engaging digital experiences.**
+- 🌱 I’m currently learning **React and DSA**
+
+- 📫 How to reach me **arbadsha00@gmail.com**
+
+- ⚡ Fun fact **I am an Artist**
+###
+
+<h2 align="left">Connect with me</h2>
 
 ###
 
-**Welcome to my GitHub! I'm passionate about crafting unique brand identities and developing scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I blend design creativity with technical expertise to build engaging digital experiences.**
+<div align="left">
+  <a href="https://linkedin.com/in/arbadsha00" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+   <a href="https://www.facebook.com/arbadsha00" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+   <a href="https://codeforces.com/profile/AbdurRahimBadsha" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="52" height="40" alt="codeforce"  /></a>
+   <a href="https://www.instagram.com/arbadsha00/" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+   <a href="https://www.behance.net/arbadsha00" target="blank">   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  /></a>
+   <a href="https://dribbble.com/arbadsha00" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  /></a>
+</div>
 
 ###
 
@@ -26,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="firebase logo"  />
 </div>
 
 ###
@@ -40,6 +62,11 @@
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co.com/70gPdxR/image.png" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co.com/j9gV2cwq/image.png" height="40" alt="adobephotoshop logo"  />
 </div>
 
 ###
+
