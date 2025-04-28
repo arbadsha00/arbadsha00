@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbadsha00&label=Profile%20views&color=F422DA&style=flat" alt="arbadsha00" /> </p>
 
 **Welcome to my GitHub! I'm passionate about crafting unique brand identities and developing scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I blend design creativity with technical expertise to build engaging digital experiences.**
-- 🌱 I’m currently learning **React and DSA**
+- 🌱 I’m currently learning **Astro and Three.js**
 
 - 📫 How to reach me **arbadsha00@gmail.com**
 - 📞 WhatsApp **+8801402195989**
