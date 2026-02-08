@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://github.com/arbadsha00/arbadsha00/blob/main/githubBanner-01.png"> </div>
 <h1 align="center">👋Hi, I'm MD. ABDUR RAHIM BADSHA</h1>
-<h3 align="center">Brand Identity Designer | Frontend Developer</h3>
+<h3 align="center">UI/UX Engineer | Frontend Developer</h3>
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbadsha00&label=Profile%20views&color=F422DA&style=flat" alt="arbadsha00" /> </p>
