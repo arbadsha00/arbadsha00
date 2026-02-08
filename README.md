@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/arbadsha00/arbadsha00/blob/main/githubBanner-01.png"> </div>
+<div align="center"> <img src="https://github.com/arbadsha00/arbadsha00/blob/main/cover.png"> </div>
 <h1 align="center">👋Hi, I'm MD. ABDUR RAHIM BADSHA</h1>
 <h3 align="center">UI/UX Engineer | Frontend Developer</h3>
 
